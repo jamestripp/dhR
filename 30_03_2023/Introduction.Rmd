@@ -1,0 +1,22 @@
+---
+title: "30th March - Introductions"
+output: html_notebook
+---
+
+Welcome to dhR!
+
+Each week we will talk about using R in the Digital Humanities. This week is an introduction.
+
+What is R?
+
+This file
+
+Writing commands
+
+The R program accepts commands from us and then does what we tell it to do.
+
+```{r}
+print("Hello dhR")
+```
+
+Try it yourself. Add a string between the speech marks.
