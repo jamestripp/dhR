@@ -1,5 +1,7 @@
 install.packages(
  c( 
   "rmarkdown",
- "leaflet")
+ "leaflet",
+ "dplyr",
+ "gutenbergr")
 )
