@@ -62,7 +62,6 @@ x * y
 
 # Looking ahead.
 # https://github.com/cran/gutenbergr
-
 library(gutenbergr)
 library(dplyr)
 library(stringr)
