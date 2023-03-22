@@ -6,7 +6,7 @@ A weekly meeting to chat about using R in the Arts and Humanities. Click on the 
 
 ## Next Session
 
-The next session will be at 12:00 on the 30th of March 2023. This is our first session so will focus on what R is and give us chance to introduce ourselves. You can find the code for this session here.
+The next session will be at 12:00 on the 30th of March 2023. This is our first session so will focus on what R is and give us chance to introduce ourselves. You can find the code for this session [here](https://github.com/jamestripp/dhR/blob/main/01_30-03-2023/Intro.R).
 
 ## Why R?
 
@@ -21,15 +21,13 @@ Working in R can also help to teach you computational thinking skills. That is, 
 
 R can do a lot of different things. These include:
 
--   Maps
+-   [Maps](https://rstudio.github.io/leaflet/)
 
--   Producing publication quality figures
+-   [Producing publication quality figures](https://r-graph-gallery.com/ggplot2-package.html)
 
--   Natural Language Processing
+-   [Text Analysis](https://quanteda.io/index.html)
 
--   Machine learning models
-
--   Websites
+-   [Websites](https://bookdown.org/yihui/blogdown/)
 
 -   and so on
 
