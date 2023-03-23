@@ -1,0 +1,9 @@
+# Literate Programming
+
+This week our work is in an 'RNoteBook'.
+
+We run code in 'cells'.
+
+```{r}
+2 + 2
+```
