@@ -4,10 +4,6 @@
 
 A weekly meeting to chat about using R in the Arts and Humanities. Click on the above button to open this repository using Binder in your web browser.
 
-## Next Session
-
-The next session will be at 12:00 on the 30th of March 2023. This is our first session so will focus on what R is and give us chance to introduce ourselves. You can find the code for this session [here](https://github.com/jamestripp/dhR/blob/main/01_30-03-2023/Intro.R).
-
 ## Why R?
 
 Humanists often use data to construct arguments and R is a programming language which focuses on data analysis. Therefore learning R can help you to be a better humanist and, in my opinion, is also rather fun.
